@@ -11,7 +11,7 @@ import SwiftUI
 struct scrollHebrewRightToLeftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HebrewAlphabetScrollView()
         }
     }
 }
